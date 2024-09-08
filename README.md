@@ -1,7 +1,3 @@
-Here’s the updated `README.md` content in plain text format:
-
----
-
 # MoodHub
 
 MoodHub is a Flutter-based mobile application designed to enhance your music experience by curating personalized music recommendations based on your mood. It leverages AI to provide a smart, interactive experience that helps you discover music tailored to your emotions and preferences.
