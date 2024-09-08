@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "708679598439",
+    "project_id": "melodify-music-app",
+    "storage_bucket": "melodify-music-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708679598439:android:3d16db31fdb1aa05a72fc2",
+        "android_client_info": {
+          "package_name": "com.example.moodhub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7-YG10okb3TlocKC6wRX8JKZQ24k0sWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
